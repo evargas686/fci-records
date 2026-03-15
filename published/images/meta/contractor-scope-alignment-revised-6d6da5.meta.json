@@ -1,0 +1,13 @@
+{
+  "name": "Contractor scope alignment revised - contractor system integrity visual",
+  "desc": "Compliance documentation graphic for system integrity documentation standards",
+  "alt": "dark background reference visual containing cloud graphic for system integrity",
+  "width": 1168,
+  "height": 651,
+  "labels": [
+    "AFPR",
+    "malware",
+    "antivirus"
+  ],
+  "version": "1.1"
+}
