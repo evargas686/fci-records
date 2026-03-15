@@ -1,0 +1,15 @@
+{
+  "title": "globe icon - compliance security reference",
+  "description": "Reference graphic for vulnerability management requirements",
+  "image_alt": "muted tone documentation visual displaying globe element on vulnerability management compliance",
+  "width": 823,
+  "height": 822,
+  "format": "jpg",
+  "categories": [
+    "patching",
+    "remediation",
+    "federal",
+    "AFPR"
+  ],
+  "reference": "REF-2054"
+}

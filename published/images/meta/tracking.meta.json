@@ -1,0 +1,13 @@
+{
+  "name": "asset inventory barcode icon graphic",
+  "desc": "Graphic resource covering asset inventory assessment procedures",
+  "alt": "navy and white signage image with compliance text overlay covering asset inventory",
+  "width": 772,
+  "height": 832,
+  "labels": [
+    "asset",
+    "tracking",
+    "AFPR"
+  ],
+  "version": "rev-1"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Compliance fingerprint reference - configuration management",
+  "description": "Quick-reference graphic for configuration management assessment procedures",
+  "image_alt": "federal blue signage image featuring fingerprint related to configuration management",
+  "width": 1172,
+  "height": 617,
+  "format": "jpg",
+  "categories": [
+    "hardening",
+    "STIG",
+    "AFPR",
+    "configuration",
+    "FCI"
+  ],
+  "version": "1.2"
+}
