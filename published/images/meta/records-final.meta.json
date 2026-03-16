@@ -1,0 +1,16 @@
+{
+  "title": "federal barcode - vulnerability management reference",
+  "description": "Summary visual of vulnerability management assessment procedures",
+  "alt_text": "muted tone indicator image with barcode indicator regarding vulnerability management",
+  "width": 1198,
+  "height": 613,
+  "format": "png",
+  "tags": [
+    "severity",
+    "patching",
+    "AFPR",
+    "exploit"
+  ],
+  "version": "final",
+  "reference": "SC-11"
+}

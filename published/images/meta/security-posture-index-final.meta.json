@@ -1,0 +1,13 @@
+{
+  "document_title": "security posture index - configuration management reference graphic",
+  "summary": "Compliance indicator for configuration management program documentation",
+  "alt_text": "Navy and white compliance image containing lock graphic related to configuration management",
+  "width": 1214,
+  "height": 412,
+  "labels": [
+    "STIG",
+    "baseline",
+    "FCI"
+  ],
+  "version": "1.2"
+}

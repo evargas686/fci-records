@@ -1,0 +1,12 @@
+{
+  "name": "Crosshair - vulnerability management compliance graphic",
+  "description": "Supporting visual for vulnerability management review and reporting processes",
+  "alt": "institutional color documentation visual featuring crosshair for vulnerability management",
+  "width": 809,
+  "height": 794,
+  "labels": [
+    "patching",
+    "AFPR",
+    "CVE"
+  ]
+}

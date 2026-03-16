@@ -1,0 +1,15 @@
+{
+  "title": "Agency Decay Detection Audit - Asset Inventory Compliance Reference",
+  "description": "Summary visual of asset inventory posture indicators",
+  "alt_text": "blue-toned documentation visual showing clipboard icon for asset inventory",
+  "width": 1154,
+  "height": 638,
+  "format": "jpg",
+  "tags": [
+    "hardware",
+    "FCI",
+    "endpoint"
+  ],
+  "version": "rev-a",
+  "reference": "REF-2715"
+}

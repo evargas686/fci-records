@@ -1,0 +1,13 @@
+{
+  "name": "Afpr system monitoring - encryption and data protection compliance reference",
+  "description": "Compliance indicator for encryption and data protection requirements",
+  "alt": "blue-toned overview graphic displaying gavel element covering encryption and data protection",
+  "width": 1205,
+  "height": 626,
+  "tags": [
+    "cryptography",
+    "FIPS",
+    "encryption",
+    "FCI"
+  ]
+}
