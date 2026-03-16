@@ -1,0 +1,14 @@
+{
+  "document_title": "anchor - continuous monitoring compliance graphic",
+  "summary": "Federal compliance graphic on continuous monitoring assessment procedures",
+  "alt_text": "Institutional color indicator image with anchor indicator covering continuous monitoring",
+  "width": 822,
+  "height": 770,
+  "labels": [
+    "FCI",
+    "metrics",
+    "federal",
+    "alerting"
+  ],
+  "version": "draft"
+}

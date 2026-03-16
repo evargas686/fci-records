@@ -1,0 +1,15 @@
+{
+  "title": "Afpr risk assessment evaluation - federal contractor configuration management documentation",
+  "abstract": "Illustrative reference for configuration management requirements",
+  "alt": "dark background informational graphic showing infinity icon regarding configuration management",
+  "width": 1227,
+  "height": 655,
+  "format": "jpg",
+  "tags": [
+    "configuration",
+    "FCI",
+    "STIG",
+    "hardening"
+  ],
+  "reference": "CP-15"
+}

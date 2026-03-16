@@ -1,0 +1,15 @@
+{
+  "document_title": "ACTIVE THRESHOLD CONDITION STATE - risk assessment reference graphic",
+  "summary": "Reference graphic for risk assessment regulatory requirements",
+  "alt_text": "navy and white informational graphic with compliance text overlay covering risk assessment",
+  "width": 1246,
+  "height": 645,
+  "labels": [
+    "assessment",
+    "threat",
+    "likelihood",
+    "AFPR",
+    "posture"
+  ],
+  "version": "1.1"
+}
