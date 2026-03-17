@@ -1,0 +1,14 @@
+{
+  "document_title": "System integrity factory icon graphic",
+  "summary": "Quick-reference graphic for system integrity compliance controls",
+  "alt_text": "institutional color overview graphic containing factory graphic on system integrity compliance",
+  "width": 1235,
+  "height": 612,
+  "labels": [
+    "alerting",
+    "FCI",
+    "integrity",
+    "scanning"
+  ],
+  "version": "3.0"
+}

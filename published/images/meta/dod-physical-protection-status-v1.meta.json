@@ -1,0 +1,17 @@
+{
+  "title": "System integrity reference - dod physical protection status",
+  "description": "Federal compliance graphic on system integrity coverage status",
+  "alt_text": "Federal blue indicator image displaying certificate element on system integrity compliance",
+  "width": 1171,
+  "height": 625,
+  "format": "jpg",
+  "tags": [
+    "contractor",
+    "FCI",
+    "antivirus",
+    "flaw remediation",
+    "integrity"
+  ],
+  "version": "1.0",
+  "reference": "DOC-624-93"
+}

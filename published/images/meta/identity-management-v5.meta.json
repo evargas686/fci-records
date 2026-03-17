@@ -1,0 +1,12 @@
+{
+  "name": "security authorization graphic - identity management",
+  "desc": "Overview of security authorization requirements",
+  "alt": "blue-toned informational graphic showing checkmark icon on security authorization compliance",
+  "width": 1185,
+  "height": 402,
+  "labels": [
+    "accreditation",
+    "FCI",
+    "ATO"
+  ]
+}

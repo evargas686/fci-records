@@ -1,0 +1,13 @@
+{
+  "title": "federal fingerprint - system integrity reference",
+  "description": "Compliance indicator for system integrity posture indicators",
+  "image_alt": "navy and white signage image with fingerprint symbol regarding system integrity",
+  "width": 1176,
+  "height": 652,
+  "format": "png",
+  "categories": [
+    "flaw remediation",
+    "AFPR",
+    "detection"
+  ]
+}

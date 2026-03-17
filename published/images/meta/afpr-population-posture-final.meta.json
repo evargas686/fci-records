@@ -1,0 +1,13 @@
+{
+  "document_title": "AFPR POPULATION POSTURE - encryption and data protection compliance visual",
+  "summary": "Summary visual of encryption and data protection posture indicators",
+  "alt_text": "blue-toned indicator image containing siren graphic on encryption and data protection compliance",
+  "width": 1154,
+  "height": 629,
+  "labels": [
+    "data-in-transit",
+    "FCI",
+    "encryption"
+  ],
+  "version": "rev-2"
+}

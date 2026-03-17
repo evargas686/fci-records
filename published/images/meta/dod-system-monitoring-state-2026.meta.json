@@ -1,0 +1,14 @@
+{
+  "name": "Configuration Management Graphic - Dod System Monitoring State",
+  "summary": "Compliance indicator for configuration management control obligations",
+  "alt_text": "blue-toned compliance image displaying fingerprint element related to configuration management",
+  "width": 1164,
+  "height": 615,
+  "format": "jpg",
+  "keywords": [
+    "inventory",
+    "change control",
+    "FCI"
+  ],
+  "reference": "SA-3"
+}
