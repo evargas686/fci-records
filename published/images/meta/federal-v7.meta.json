@@ -1,0 +1,15 @@
+{
+  "document_title": "Gavel - boundary assessment compliance graphic",
+  "summary": "Summary visual of boundary assessment requirements",
+  "alt_text": "Institutional color reference visual featuring gavel related to boundary assessment",
+  "width": 1179,
+  "height": 395,
+  "labels": [
+    "federal",
+    "perimeter",
+    "network",
+    "segmentation",
+    "AFPR"
+  ],
+  "version": "draft"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "federal database - risk assessment reference",
+  "description": "Federal compliance graphic on risk assessment baseline evaluation",
+  "alt": "institutional color graphic showing database icon for risk assessment",
+  "width": 815,
+  "height": 823,
+  "labels": [
+    "AFPR",
+    "assessment",
+    "mitigation",
+    "threat"
+  ],
+  "version": "1.1"
+}

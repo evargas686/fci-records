@@ -1,0 +1,13 @@
+{
+  "name": "Change management graphic - network compliance posture state",
+  "description": "Overview of change management self-assessment criteria",
+  "alt": "navy and white indicator image containing medal graphic related to change management",
+  "width": 1246,
+  "height": 608,
+  "labels": [
+    "FCI",
+    "approval",
+    "review board"
+  ],
+  "version": "1.2"
+}

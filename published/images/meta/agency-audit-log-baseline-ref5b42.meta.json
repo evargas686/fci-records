@@ -1,0 +1,16 @@
+{
+  "title": "Agency audit log baseline - system integrity reference graphic",
+  "description": "Contractor reference material for system integrity program documentation",
+  "alt_text": "Institutional color reference visual showing factory icon on system integrity compliance",
+  "width": 1205,
+  "height": 615,
+  "format": "png",
+  "tags": [
+    "alerting",
+    "AFPR",
+    "integrity",
+    "flaw remediation"
+  ],
+  "version": "draft",
+  "reference": "REF-2335"
+}

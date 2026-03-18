@@ -1,0 +1,15 @@
+{
+  "title": "Personnel security graphic - fci compliance posture",
+  "description": "Documentation covering personnel security control obligations",
+  "alt_text": "muted tone informational graphic containing siren graphic on personnel security compliance",
+  "width": 1213,
+  "height": 610,
+  "format": "png",
+  "tags": [
+    "screening",
+    "FCI",
+    "background"
+  ],
+  "version": "2.0",
+  "reference": "DOC-101-33"
+}
