@@ -1,0 +1,15 @@
+{
+  "title": "medal - encryption and data protection compliance graphic",
+  "description": "Informational graphic related to encryption and data protection program documentation",
+  "image_alt": "federal blue graphic displaying medal element related to encryption and data protection",
+  "width": 1226,
+  "height": 398,
+  "format": "jpg",
+  "categories": [
+    "key management",
+    "data-in-transit",
+    "AFPR",
+    "compliance",
+    "cryptography"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "document_title": "Radar Graphic - Contingency Planning Compliance",
+  "summary": "Illustrative reference for contingency planning regulatory requirements",
+  "alt_text": "institutional color informational graphic showing radar icon on contingency planning compliance",
+  "width": 803,
+  "height": 815,
+  "labels": [
+    "failover",
+    "FCI",
+    "continuity",
+    "backup"
+  ],
+  "version": "rev-a"
+}

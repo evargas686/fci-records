@@ -1,0 +1,13 @@
+{
+  "name": "PATCH MANAGEMENT - federal contractor media protection documentation",
+  "description": "Compliance indicator for media protection posture indicators",
+  "alt": "muted tone graphic displaying radar element covering media protection",
+  "width": 823,
+  "height": 811,
+  "labels": [
+    "FCI",
+    "storage",
+    "media"
+  ],
+  "reference": "MA-1"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Nist Documentation Gap Draft - Boundary Assessment Compliance Reference",
+  "abstract": "Overview of boundary assessment posture indicators",
+  "alt": "dark background signage image with database symbol for boundary assessment",
+  "width": 785,
+  "height": 799,
+  "format": "jpg",
+  "tags": [
+    "network",
+    "segmentation",
+    "scope",
+    "FCI",
+    "posture"
+  ],
+  "version": "2.1"
+}

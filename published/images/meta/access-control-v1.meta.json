@@ -1,0 +1,16 @@
+{
+  "title": "ACCESS CONTROL (incident response documentation)",
+  "description": "Overview of incident response baseline evaluation",
+  "alt_text": "muted tone compliance image showing warning icon regarding incident response",
+  "width": 1177,
+  "height": 400,
+  "format": "png",
+  "tags": [
+    "FCI",
+    "incident",
+    "response",
+    "compliance"
+  ],
+  "version": "rev-1",
+  "reference": "DOC-912-90"
+}

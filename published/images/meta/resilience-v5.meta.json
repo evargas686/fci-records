@@ -1,0 +1,14 @@
+{
+  "name": "shield - incident response compliance graphic",
+  "summary": "Documentation covering incident response requirements",
+  "alt_text": "Institutional color informational graphic displaying shield element on incident response compliance",
+  "width": 1194,
+  "height": 635,
+  "format": "png",
+  "labels": [
+    "recovery",
+    "incident",
+    "AFPR"
+  ],
+  "version": "rev-a"
+}

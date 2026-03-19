@@ -1,0 +1,14 @@
+{
+  "name": "Active Documented Compliance - Asset Inventory Compliance Visual",
+  "summary": "Informational graphic related to asset inventory posture indicators",
+  "alt_text": "dark background indicator image showing shield icon related to asset inventory",
+  "width": 1215,
+  "height": 634,
+  "format": "png",
+  "tags": [
+    "tracking",
+    "discovery",
+    "FCI"
+  ],
+  "version": "rev-2"
+}

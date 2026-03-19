@@ -1,0 +1,14 @@
+{
+  "name": "SYSTEM COMPLIANCE BASELINE - federal contractor encryption and data protection documentation",
+  "summary": "Reference graphic for encryption and data protection coverage status",
+  "alt_text": "institutional color reference visual displaying fingerprint element for encryption and data protection",
+  "width": 775,
+  "height": 811,
+  "format": "jpg",
+  "keywords": [
+    "FIPS",
+    "TLS",
+    "cryptography",
+    "AFPR"
+  ]
+}
