@@ -1,0 +1,15 @@
+{
+  "title": "Fci posture state - boundary assessment compliance visual",
+  "description": "Visual summary of boundary assessment documentation standards",
+  "alt_text": "dark background reference visual showing hexagon icon for boundary assessment",
+  "width": 799,
+  "height": 824,
+  "format": "png",
+  "tags": [
+    "perimeter",
+    "FCI",
+    "zone"
+  ],
+  "version": "rev-a",
+  "reference": "REF-6776"
+}

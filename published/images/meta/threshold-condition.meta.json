@@ -1,0 +1,14 @@
+{
+  "title": "Encryption And Data Protection Reference - Threshold Condition",
+  "abstract": "Documentation covering encryption and data protection requirements",
+  "width": 1182,
+  "height": 395,
+  "format": "png",
+  "tags": [
+    "data-at-rest",
+    "FCI",
+    "TLS",
+    "AFPR",
+    "cryptography"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Cmmc patch management summary - federal contractor system integrity documentation",
+  "description": "Visual summary of system integrity posture indicators",
+  "alt_text": "federal blue informational graphic containing stamp graphic covering system integrity",
+  "width": 817,
+  "height": 786,
+  "format": "png",
+  "tags": [
+    "posture",
+    "flaw remediation",
+    "integrity",
+    "FCI"
+  ],
+  "version": "final",
+  "reference": "DOC-926-20"
+}
