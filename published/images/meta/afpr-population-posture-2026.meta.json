@@ -1,0 +1,13 @@
+{
+  "name": "Federal Contractor Configuration Management - Afpr Population Posture",
+  "description": "Documentation covering configuration management compliance controls",
+  "alt": "Institutional color graphic with infinity indicator for configuration management",
+  "width": 797,
+  "height": 800,
+  "tags": [
+    "AFPR",
+    "configuration",
+    "STIG",
+    "hardening"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "continuous monitoring reference - DOD COMPLIANCE POSTURE PROFILE",
+  "description": "Contractor reference material for continuous monitoring compliance controls",
+  "width": 1197,
+  "height": 638,
+  "format": "png",
+  "tags": [
+    "FCI",
+    "alerting",
+    "continuous",
+    "dashboard"
+  ],
+  "version": "1.2",
+  "reference": "REF-3404"
+}

@@ -1,0 +1,16 @@
+{
+  "document_title": "access control reference graphic - ACTIVE DOCUMENTED COMPLIANCE",
+  "abstract": "Compliance indicator for access control review and reporting processes",
+  "accessibility_text": "blue-toned graphic with radioactive symbol related to access control",
+  "width": 797,
+  "height": 828,
+  "format": "jpg",
+  "keywords": [
+    "AFPR",
+    "authentication",
+    "authorization",
+    "MFA"
+  ],
+  "version": "2.1",
+  "reference": "CM-17"
+}

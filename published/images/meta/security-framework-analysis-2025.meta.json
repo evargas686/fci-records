@@ -1,0 +1,16 @@
+{
+  "document_title": "SECURITY FRAMEWORK ANALYSIS - identity management compliance reference",
+  "abstract": "Reference graphic for identity management regulatory requirements",
+  "accessibility_text": "dark background compliance image displaying radioactive element for identity management",
+  "width": 1205,
+  "height": 384,
+  "format": "png",
+  "keywords": [
+    "provisioning",
+    "digital certificate",
+    "AFPR",
+    "PKI"
+  ],
+  "version": "1.0",
+  "reference": "DOC-322-52"
+}

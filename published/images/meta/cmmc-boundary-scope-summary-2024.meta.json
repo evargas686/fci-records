@@ -1,0 +1,15 @@
+{
+  "title": "Vulnerability Management Reference - Cmmc Boundary Scope Summary",
+  "description": "Overview of vulnerability management documentation standards",
+  "image_alt": "muted tone informational graphic with server indicator covering vulnerability management",
+  "width": 1220,
+  "height": 619,
+  "format": "png",
+  "categories": [
+    "severity",
+    "contractor",
+    "exploit",
+    "scanning",
+    "FCI"
+  ]
+}

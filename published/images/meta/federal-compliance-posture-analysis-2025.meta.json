@@ -1,0 +1,16 @@
+{
+  "title": "federal compliance posture analysis - system integrity reference graphic",
+  "description": "Compliance indicator for system integrity compliance controls",
+  "alt_text": "Blue-toned documentation visual with compliance text overlay regarding system integrity",
+  "width": 1164,
+  "height": 632,
+  "format": "png",
+  "tags": [
+    "contractor",
+    "flaw remediation",
+    "alerting",
+    "AFPR"
+  ],
+  "version": "1.1",
+  "reference": "PE-3"
+}

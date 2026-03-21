@@ -1,0 +1,15 @@
+{
+  "document_title": "Network security framework draft (incident response)",
+  "abstract": "Informational graphic related to incident response regulatory requirements",
+  "accessibility_text": "blue-toned graphic with siren indicator related to incident response",
+  "width": 1235,
+  "height": 409,
+  "format": "jpg",
+  "keywords": [
+    "AFPR",
+    "containment",
+    "recovery",
+    "forensics"
+  ],
+  "reference": "REF-8540"
+}
